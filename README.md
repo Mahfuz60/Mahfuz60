@@ -1,7 +1,7 @@
-# Hello, there! <img src="https://raw.githubusercontent.com/Mahfuz60/Mahfuz60/main/wave.gif" width="30px">
+# Hello, there! <img src="https://raw.githubusercontent.com/Mahfuz60/Mahfuz60/main/wave.gif" width="50px">
 
-I'm Mahfuz Alam, I'm a `Front-End Web Developer` based in Bangladesh and I'm learning new things everyday.
--🔭 I’m currently working [Kitsware Technology]
+I'm a `Front-End Web Developer` based in Bangladesh and I'm learning new things everyday.
+-🔭 I’m currently working `Kitsware Technology`
 - 🥅 2021 Goals: TypeScript, Next.js, Vue,Redux,React Native
 - ⚡ Fun fact: I love to Explore the world 
 
