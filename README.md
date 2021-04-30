@@ -1,6 +1,6 @@
 # Hello, there! <img src="https://raw.githubusercontent.com/Mahfuz60/Mahfuz60/main/wave.gif" width="50px">
 
-## I'm a 😍😍 JavaScript Lover 😍😍!
+## I'm a 😍 JavaScript Lover 😍!
 -🔭 I’m currently working `Kitsware Technology`
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: TypeScript, Next.js, Vue,Redux,React Native
