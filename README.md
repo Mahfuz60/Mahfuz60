@@ -1,14 +1,8 @@
-<!-- ## Hi there, I'm  [Mahfuz Alam][website] 👋
-
-## I'm a 😍😍 JavaScript Lover 😍😍!
-- 🔭 I’m currently working [Kitsware Technology][programming]!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: TypeScript, Next.js, Vue,Redux,React Native
-- ⚡ Fun fact: I love to Explore the world  -->
-
 # Hello, there! <img src="https://raw.githubusercontent.com/Mahfuz60/Mahfuz60/main/wave.gif" width="30px">
 
 I'm Mahfuz Alam, I'm a `Front-End Web Developer` based in Bangladesh and I'm learning new things everyday.
+- 🥅 2021 Goals: TypeScript, Next.js, Vue,Redux,React Native
+- ⚡ Fun fact: I love to Explore the world 
 
 ## BIO
 
@@ -17,7 +11,11 @@ I'm Mahfuz Alam, I'm a `Front-End Web Developer` based in Bangladesh and I'm lea
 - 🌱 I’m currently learning **Web Development**
 - 💬 Ping me about **design**, **development**
 <!-- and **anime** :stuck_out_tongue_closed_eyes: -->
-- 📫 Reach me: [Facebook](https://www.facebook.com/MAHFUZ.71.BD), [Email](mailto:mahfuzuralam1996@gmail.com/)
+### Connect with me:
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mahfuz-alam60/) 
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/MAHFUZ.71.BD) 
+[Email](mailto:mahfuzuralam1996@gmail.com/)
+
 <!-- - ⚡️ Fun fact: I'm a huge fan of **Anime** -->
 
 ## Technologies & Tools
