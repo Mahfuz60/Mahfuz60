@@ -8,7 +8,7 @@
 
 # Hello, there! <img src="https://raw.githubusercontent.com/Mahfuz60/Mahfuz60/main/wave.gif" width="30px">
 
-I'm Mazharul Islam, I'm a `Front-End Web Developer` based in Bangladesh and I'm learning new things everyday.
+I'm Mahfuz Alam, I'm a `Front-End Web Developer` based in Bangladesh and I'm learning new things everyday.
 
 ## BIO
 
@@ -36,6 +36,6 @@ I'm Mazharul Islam, I'm a `Front-End Web Developer` based in Bangladesh and I'm 
 
 ## Overview
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfuz60&layout=compact&theme=tokyonight)](https://github.com/iamparves/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfuz60&layout=compact&theme=tokyonight)](https://github.com/Mahfuz60/github-readme-stats)
 
-[!Mahfuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahfuz60&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/iamparves/github-readme-stats)
+[![Mahfuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahfuz60&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Mahfuz60/github-readme-stats)
