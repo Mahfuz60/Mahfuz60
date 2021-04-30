@@ -1,12 +1,13 @@
 # Hello, there! <img src="https://raw.githubusercontent.com/Mahfuz60/Mahfuz60/main/wave.gif" width="30px">
 
 I'm Mahfuz Alam, I'm a `Front-End Web Developer` based in Bangladesh and I'm learning new things everyday.
+-🔭 I’m currently working [Kitsware Technology]
 - 🥅 2021 Goals: TypeScript, Next.js, Vue,Redux,React Native
 - ⚡ Fun fact: I love to Explore the world 
 
 ## BIO
 
-- ⚙️ I use daily: `.html`, `.css`, `.js`, `react.js`, `node.js`, `express.js`, `.svg`, `.c`, `.c++`, `.psd`, `.ai`
+- ⚙️ I Use Daily: `.HTML`, `.CSS`, `.JS`, `React.js`, `Node.js`, `Express.js`, `.Svg`, `.C`, `.C++`, `.Psd`, `.Ai`
 <!-- - 🌍  -->
 - 🌱 I’m currently learning **Web Development**
 - 💬 Ping me about **design**, **development**
