@@ -1,17 +1,14 @@
 # Hello, there! <img src="https://raw.githubusercontent.com/Mahfuz60/Mahfuz60/main/wave.gif" width="50px">
 
-I'm a `Front-End Web Developer` based in Bangladesh and I'm learning new things everyday.
+## I'm a 😍😍 JavaScript Lover 😍😍!
 -🔭 I’m currently working `Kitsware Technology`
+- 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: TypeScript, Next.js, Vue,Redux,React Native
 - ⚡ Fun fact: I love to Explore the world 
 
-## BIO
 
 - ⚙️ I Use Daily: `.HTML`, `.CSS`, `.JS`, `React.js`, `Node.js`, `Express.js`, `.Svg`, `.C`, `.C++`, `.Psd`, `.Ai`
-<!-- - 🌍  -->
-- 🌱 I’m currently learning **Web Development**
-- 💬 Ping me about **design**, **development**
-<!-- and **anime** :stuck_out_tongue_closed_eyes: -->
+
 ### Connect with me:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mahfuz-alam60/) 
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/MAHFUZ.71.BD) 
