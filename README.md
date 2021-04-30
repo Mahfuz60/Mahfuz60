@@ -21,8 +21,6 @@ I'm Mahfuz Alam, I'm a `Front-End Web Developer` based in Bangladesh and I'm lea
 <!-- - ⚡️ Fun fact: I'm a huge fan of **Anime** -->
 
 ## Technologies & Tools
-
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=628FDB)
 ![](https://img.shields.io/badge/Editor-VS Code-informational?style=flat =visual%20studio =white =628FDB)
 ![](https://img.shields.io/badge/Browser-Brave-informational?style=flat&logo=brave&logoColor=white&color=628FDB)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=628FDB)
@@ -32,7 +30,7 @@ I'm Mahfuz Alam, I'm a `Front-End Web Developer` based in Bangladesh and I'm lea
 ![](https://img.shields.io/badge/Shell-Git Bash-informational?style=flat =git =white =628FDB)
 ![](https://img.shields.io/badge/Tool-Photoshop-informational?style=flat&logo=adobe%20photoshop&logoColor=white&color=628FDB)
 ![](https://img.shields.io/badge/Tool-Illustrator-informational?style=flat&logo=adobe%20illustrator&logoColor=white&color=628FDB)
-![](https://img.shields.io/badge/Tool-Adobe XD-informational?style=flat =adobe%20xd =white =628FDB)
+
 
 ## Overview
 
