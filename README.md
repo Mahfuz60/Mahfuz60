@@ -1,7 +1,7 @@
 # Hello, there! <img src="https://raw.githubusercontent.com/Mahfuz60/Mahfuz60/main/wave.gif" width="50px">
 
 ## I'm a 😍 JavaScript Lover 😍!
--🔭 I’m currently working `Front-End Web Developer`
+## I’m currently working `Front-End Web Developer`
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: TypeScript, Next.js, Vue,Redux,React Native
 - ⚡ Fun fact: I love to Explore the world 
@@ -31,7 +31,8 @@
 
 
 ## Overview
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfuz60&card_width=550&show_icons=true&theme=radical)](https://github.com/Mahfuz60)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfuz60&layout=compact&theme=white)](https://github.com/Mahfuz60/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfuz60&layout=compact&theme=white)](https://github.com/Mahfuz60/github-readme-stats) -->
 
 [![Mahfuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahfuz60&count_private=true&show_icons=true&theme=white)](https://github.com/Mahfuz60/github-readme-stats)
