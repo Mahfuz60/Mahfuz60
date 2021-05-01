@@ -52,5 +52,8 @@
 
 
 ## Overview
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfuz60&card_width=550&show_icons=true&theme=radical)](https://github.com/Mahfuz60)
+
 [![Mahfuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahfuz60&count_private=true&show_icons=true&theme=radical)](https://github.com/Mahfuz60/github-readme-stats)
+</br>
+</br>
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfuz60&card_width=550&show_icons=true&theme=radical)](https://github.com/Mahfuz60)
