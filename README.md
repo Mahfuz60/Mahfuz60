@@ -32,6 +32,6 @@
 
 ## Overview
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfuz60&layout=compact&theme=tokyonight)](https://github.com/Mahfuz60/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfuz60&layout=compact&theme=white)](https://github.com/Mahfuz60/github-readme-stats)
 
-[![Mahfuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahfuz60&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Mahfuz60/github-readme-stats)
+[![Mahfuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahfuz60&count_private=true&show_icons=true&theme=white)](https://github.com/Mahfuz60/github-readme-stats)
