@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love to Explore the world 
 
 
-- ⚙️ I Use Daily: `.HTML`, `.CSS`, `.JS`, `React.js`, `Node.js`, `Express.js`, `.Svg`, `.C`, `.C++`, `.Psd`, `.Ai`
+- ⚙️ I Use Daily: `.HTML`, `.CSS`, `React.js`, `Node.js`, `Express.js`, `.Bootstrap`
 
 ### Connect with me:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mahfuz-alam60/) 
@@ -26,8 +26,8 @@
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=628FDB)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=628FDB)
 ![](https://img.shields.io/badge/Shell-Git Bash-informational?style=flat =git =white =628FDB)
-![](https://img.shields.io/badge/Tool-Photoshop-informational?style=flat&logo=adobe%20photoshop&logoColor=white&color=628FDB)
-![](https://img.shields.io/badge/Tool-Illustrator-informational?style=flat&logo=adobe%20illustrator&logoColor=white&color=628FDB)
+
+
 
 
 ## Overview
