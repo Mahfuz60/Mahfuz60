@@ -1,7 +1,7 @@
 # Hello, there! <img src="https://raw.githubusercontent.com/Mahfuz60/Mahfuz60/main/wave.gif" width="50px">
 
 ## I'm a 😍 JavaScript Lover 😍!
-## I’m currently working `Front-End Web Developer`
+## I’m currently working as a `Front-End Web Developer`
 Portfolio: https://portfolio-8c1e8.web.app/
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: TypeScript, Next.js, Vue,Redux,React Native
