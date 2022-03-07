@@ -2,7 +2,7 @@
 
 ## I'm a 😍 JavaScript Lover 😍!
 ## I’m currently working as a `Front-End Web Developer`
-Portfolio: https://portfolio-8c1e8.web.app/
+Portfolio: https://mahfuzportfolio.netlify.app/
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: TypeScript, Next.js, Vue,Redux,React Native
 - ⚡ Fun fact: I love to Explore the world 
