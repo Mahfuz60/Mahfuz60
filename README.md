@@ -2,7 +2,7 @@
 
 ## I'm a 😍 JavaScript Lover 😍!
 ## I’m currently working as a `Junior Web Developer`
-Portfolio: https://mahfuzportfolio.netlify.app/
+Portfolio:https://portfolio-website-637cb.web.app/
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: TypeScript, Next.js, Vue,Redux,React Native
 - ⚡ Fun fact: I love to Explore the world 
