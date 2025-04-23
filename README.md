@@ -12,7 +12,7 @@ Portfolio:https://portfolio-website-637cb.web.app/
 
 ### Connect with me:
 
-[![Connect](https://img.shields.io/badge/-Connect-1976d2?style=social&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/mahfuzalam60/)
+[![Connect](https://img.shields.io/badge/-Connect-1976d2?style=social&logo=linkedin)](https://www.linkedin.com/in/mahfuzalam60/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/MAHFUZ.71.BD) 
 
 
