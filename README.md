@@ -8,10 +8,10 @@ Portfolio:https://portfolio-website-637cb.web.app/
 - ⚡ Fun fact: I love to Explore the world 
 
 
-- ⚙️ I Use Daily: `.HTML`, `.CSS`, `React.js`, `Node.js`, `Express.js`, `.Bootstrap`,`AntDesign`,`NEST JS`,`NEXT JS`,`PostgreSQL`,`MongoDB`
+- ⚙️ I am Using Daily: `.HTML`, `.CSS`, `React.js`, `Node.js`, `Express.js`, `.Bootstrap`,`AntDesign`,`NEST JS`,`NEXT JS`,`PostgreSQL`,`MongoDB`
 
 ### Connect with me:
-[![LinkedIn Connect](https://img.shields.io/badge/%40-Follow-black?color=14171A&labelColor=1976d2&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mahfuzalam60/) 
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mahfuzalam60/) 
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/MAHFUZ.71.BD) 
 
 
