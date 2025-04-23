@@ -1,14 +1,14 @@
 # Hello, there! <img src="https://raw.githubusercontent.com/Mahfuz60/Mahfuz60/main/wave.gif" width="50px">
 
 ## I'm a 😍 JavaScript Lover 😍!
-## I’m currently working as a `Junior Software Engineer`
+## I’m currently working as a `Software Engineer`
 Portfolio:https://portfolio-website-637cb.web.app/
 - 🌱 I’m currently learning everything 🤣
 <!-- - 🥅 2021 Goals: TypeScript, Next.js, Vue,Redux,React Native -->
 - ⚡ Fun fact: I love to Explore the world 
 
 
-- ⚙️ I Use Daily: `.HTML`, `.CSS`, `React.js`, `Node.js`, `Express.js`, `.Bootstrap`
+- ⚙️ I Use Daily: `.HTML`, `.CSS`, `React.js`, `Node.js`, `Express.js`, `.Bootstrap`,`AntDesign`,`NEST JS`,`NEXT JS`,`PostgreSQL`,`MongoDB`
 
 ### Connect with me:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mahfuz-alam60/) 
