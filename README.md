@@ -11,7 +11,7 @@ Portfolio:https://portfolio-website-637cb.web.app/
 - ⚙️ I am Using Daily: `.HTML`, `.CSS`, `React.js`, `Node.js`, `Express.js`, `.Bootstrap`,`AntDesign`,`NEST JS`,`NEXT JS`,`PostgreSQL`,`MongoDB`
 
 ### Connect with me:
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mahfuzalam60/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahfuzalam60/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/MAHFUZ.71.BD) 
 
 
